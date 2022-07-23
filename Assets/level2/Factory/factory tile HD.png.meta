@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: bcec0c04301a71644a5b41a53414a645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -404938170074083802
+    second: basic
+  - first:
+      213: 4972865795908047704
+    second: factory tile HD_1
+  - first:
+      213: 9178939089457072633
+    second: factory tile HD_2
+  - first:
+      213: 8082885007700813108
+    second: factory tile HD_3
+  - first:
+      213: 5381379714876426272
+    second: factory tile HD_4
+  - first:
+      213: 7132055217300279697
+    second: factory tile HD_5
+  - first:
+      213: 7627556564768941296
+    second: factory tile HD_6
+  - first:
+      213: 8813339606194523611
+    second: factory tile HD_7
+  - first:
+      213: -6554565170219506619
+    second: factory tile HD_8
+  - first:
+      213: 1494167668462872862
+    second: floora
+  - first:
+      213: 2185795363995066478
+    second: factory tile HD_10
+  - first:
+      213: 2095851555205393036
+    second: factory tile HD_11
+  - first:
+      213: -324181587109757188
+    second: factory tile HD_12
+  - first:
+      213: 8434233200125951514
+    second: factory tile HD_13
+  - first:
+      213: 1337055656022618084
+    second: factory tile HD_14
+  - first:
+      213: -6699475713790739472
+    second: floor
+  - first:
+      213: -1014971680693717669
+    second: floor big
+  - first:
+      213: -5527101909255738320
+    second: factory tile HD_17
+  - first:
+      213: 2255372104559280434
+    second: factory tile HD_18
+  - first:
+      213: 6493969443533321232
+    second: factory tile HD_19
+  - first:
+      213: -580624917458126993
+    second: factory tile HD_20
+  - first:
+      213: -2477423184155266138
+    second: factory tile HD_21
+  - first:
+      213: -4019048390847897352
+    second: factory tile HD_22
+  - first:
+      213: -4996971019672387718
+    second: factory tile HD_23
+  - first:
+      213: 8402780897209429258
+    second: factory tile HD_24
+  - first:
+      213: 8569095509283272004
+    second: factory tile HD_25
+  - first:
+      213: 312423945088668382
+    second: factory tile HD_26
+  - first:
+      213: 8597659285044929229
+    second: factory tile HD_27
+  - first:
+      213: 834065884829831718
+    second: factory tile HD_28
+  - first:
+      213: 1827726369305992881
+    second: factory tile HD_29
+  - first:
+      213: -1225113788089477200
+    second: factory tile HD_30
+  - first:
+      213: -3294102983278228348
+    second: factory tile HD_31
+  - first:
+      213: 5394898528887328968
+    second: factory tile HD_32
+  - first:
+      213: 603169558640681764
+    second: factory tile HD_33
+  - first:
+      213: -3988815051326800207
+    second: factory tile HD_34
+  - first:
+      213: 3201809729105012231
+    second: factory tile HD_35
+  - first:
+      213: -6572435355679859016
+    second: factory tile HD_36
+  - first:
+      213: -5453418584642406201
+    second: factory tile HD_37
+  - first:
+      213: 3968194315165884655
+    second: factory tile HD_38
+  - first:
+      213: -2597634607623248782
+    second: factory tile HD_39
+  - first:
+      213: -798983058444064141
+    second: factory tile HD_40
+  - first:
+      213: 7484969653177226382
+    second: factory tile HD_41
+  - first:
+      213: -6522614643088098507
+    second: factory tile HD_42
+  - first:
+      213: -7790323867721767441
+    second: factory tile HD_43
+  - first:
+      213: 6744417975519667786
+    second: factory tile HD_44
+  - first:
+      213: 4018691788384721526
+    second: factory tile HD_45
+  - first:
+      213: -735749068491060651
+    second: factory tile HD_46
+  - first:
+      213: -128773233652584753
+    second: factory tile HD_47
+  - first:
+      213: -5620135419709167533
+    second: factory tile HD_48
+  - first:
+      213: -1071079411993001027
+    second: factory tile HD_49
+  - first:
+      213: 733213425029597957
+    second: factory tile HD_50
+  - first:
+      213: -3633340314332086743
+    second: factory tile HD_51
+  - first:
+      213: 1268712690596428373
+    second: factory tile HD_52
+  - first:
+      213: -5368447752817922758
+    second: gray
+  - first:
+      213: 3071695930882492391
+    second: factory tile right
+  - first:
+      213: -6435726349202286362
+    second: factory tile left
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Tizen
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basic
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eccb831ee516af0800000000000000
+      internalID: -404938170074083802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_1
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8531ac0181b230540800000000000000
+      internalID: 4972865795908047704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_2
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1666
+        width: 432
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f949024874226f70800000000000000
+      internalID: 9178939089457072633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435665ce61d2c2070800000000000000
+      internalID: 8082885007700813108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c3b2c6508eaa40800000000000000
+      internalID: 5381379714876426272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_5
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 664
+        width: 88
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19197a1de662af260800000000000000
+      internalID: 7132055217300279697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 712
+        width: 64
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4604b78468ad960800000000000000
+      internalID: 7627556564768941296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_7
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 712
+        width: 64
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd0b104da54f4a70800000000000000
+      internalID: 8813339606194523611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_8
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5442beb84b18905a0800000000000000
+      internalID: -6554565170219506619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floora
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 123
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e196a99f3995cb410800000000000000
+      internalID: 1494167668462872862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1666
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e602f9e7d41855e10800000000000000
+      internalID: 2185795363995066478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 123
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa7f992e5f51d10800000000000000
+      internalID: 2095851555205393036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1534
+        width: 137
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6238724, y: 0.5417586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb9996096408bf0800000000000000
+      internalID: -324181587109757188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1409
+        width: 120
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3056b86a6c0570800000000000000
+      internalID: 8434233200125951514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1404
+        width: 142
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efa72ef80d2e8210800000000000000
+      internalID: 1337055656022618084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1793
+        width: 384
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb752a655ea603a0800000000000000
+      internalID: -6699475713790739472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor big
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1409
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b557b2b42a81ae1f0800000000000000
+      internalID: -1014971680693717669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cad6de81acb43b0800000000000000
+      internalID: -5527101909255738320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1357
+        width: 356
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c498caf0bc4f10800000000000000
+      internalID: 2255372104559280434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1278
+        width: 60
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147b086dc63f1a50800000000000000
+      internalID: 6493969443533321232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1413
+        width: 257
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67fa2fb6b431f7f0800000000000000
+      internalID: -580624917458126993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1921
+        width: 133
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3bb1e6dbc6e9dd0800000000000000
+      internalID: -2477423184155266138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_22
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1921
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e76848c87938c0800000000000000
+      internalID: -4019048390847897352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_23
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1920
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f718b255137aab0800000000000000
+      internalID: -4996971019672387718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1924
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d2b97c4bcac9470800000000000000
+      internalID: 8402780897209429258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_25
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1794
+        width: 32
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4457935f6fa8be670800000000000000
+      internalID: 8569095509283272004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_26
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1665
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2165a3ce3f55400800000000000000
+      internalID: 312423945088668382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1538
+        width: 384
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc221f04195015770800000000000000
+      internalID: 8597659285044929229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_28
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1448
+        width: 397
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622dd80d082339b00800000000000000
+      internalID: 834065884829831718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_29
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1541
+        width: 24
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be191df2736d5910800000000000000
+      internalID: 1827726369305992881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_30
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1406
+        width: 368
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b75e7b20858ffee0800000000000000
+      internalID: -1225113788089477200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 764
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c85242acef842d0800000000000000
+      internalID: -3294102983278228348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_32
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1026
+        width: 255
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c05b9de0a78eda40800000000000000
+      internalID: 5394898528887328968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_33
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1045
+        width: 313
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4236b129483ee5800800000000000000
+      internalID: 603169558640681764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_34
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1040
+        width: 183
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be3fee28d1e4a8c0800000000000000
+      internalID: -3988815051326800207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_35
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1033
+        width: 173
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a1b51cfc1f6c20800000000000000
+      internalID: 3201809729105012231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 125
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bedb73cdd40ac4a0800000000000000
+      internalID: -6572435355679859016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 642
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c830e2d0b09154b0800000000000000
+      internalID: -5453418584642406201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 644
+        width: 250
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0ef2b84bbd11730800000000000000
+      internalID: 3968194315165884655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 642
+        width: 247
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ea54561953fbd0800000000000000
+      internalID: -2597634607623248782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_40
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 642
+        width: 77
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ae2eb342179e4f0800000000000000
+      internalID: -798983058444064141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_41
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 642
+        width: 155
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8415341e34ffd760800000000000000
+      internalID: 7484969653177226382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 496
+        width: 356
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf8f75a840b75a0800000000000000
+      internalID: -6522614643088098507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 514
+        width: 257
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5623b97b533e390800000000000000
+      internalID: -7790323867721767441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 389
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46eb9f4a6cf89d50800000000000000
+      internalID: 6744417975519667786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_45
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 514
+        width: 380
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a537cb3e245c730800000000000000
+      internalID: 4018691788384721526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 368
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a04c0de181ac5f0800000000000000
+      internalID: -735749068491060651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 127
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce2f8f1d61863ef0800000000000000
+      internalID: -128773233652584753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_48
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1408
+        width: 252
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5180934, y: 0.49287364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358e4aecc944102b0800000000000000
+      internalID: -5620135419709167533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_49
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1912
+        width: 117
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5119241, y: 0.5229967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db34ce913f2c221f0800000000000000
+      internalID: -1071079411993001027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1652
+        width: 145
+        height: 141
+      alignment: 9
+      pivot: {x: 0.49320915, y: 0.49516335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bcf6fa9b5ec2a00800000000000000
+      internalID: 733213425029597957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 82
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e31200c38c39dc0800000000000000
+      internalID: -3633340314332086743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile HD_52
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1408
+        width: 99
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ab70d587f5b9110800000000000000
+      internalID: 1268712690596428373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1505
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d2b0a46317f75b0800000000000000
+      internalID: -5368447752817922758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile right
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1492
+        width: 149
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78342bc2bd0aa20800000000000000
+      internalID: 3071695930882492391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factory tile left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1561
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e81d2cbbf4bfa6a0800000000000000
+      internalID: -6435726349202286362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

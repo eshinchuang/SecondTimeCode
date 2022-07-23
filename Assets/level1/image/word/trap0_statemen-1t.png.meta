@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: 77d27bbd87c239e4c9e56b5b63e97321
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -787018373694021899
+    second: trap0_statement_0
+  - first:
+      213: -4327808809374389229
+    second: trap0_statement_1
+  - first:
+      213: -8676552402983451939
+    second: trap0_statement_2
+  - first:
+      213: 4421595309811308661
+    second: trap0_statement_3
+  - first:
+      213: 8754495068028231027
+    second: trap0_statement_4
+  - first:
+      213: -983364929929334258
+    second: trap0_statement_5
+  - first:
+      213: -3765143270169486029
+    second: trap0_statement_6
+  - first:
+      213: 4917594760159776706
+    second: trap0_statement_7
+  - first:
+      213: -4588452942981479227
+    second: trap0_statement_8
+  - first:
+      213: 3361932713694403643
+    second: trap0_statement_9
+  - first:
+      213: 8046310043350483609
+    second: trap0_statement_10
+  - first:
+      213: 3454707863439792917
+    second: trap0_statement_11
+  - first:
+      213: 3264200979712836127
+    second: trap0_statement_12
+  - first:
+      213: 1294481050470212955
+    second: trap0_statement_13
+  - first:
+      213: -2826140284932681190
+    second: trap0_statement_14
+  - first:
+      213: 8982523000907457622
+    second: trap0_statement_15
+  - first:
+      213: 7493399074203357323
+    second: trap0_statement_16
+  - first:
+      213: 5085561254586464169
+    second: trap0_statement_17
+  - first:
+      213: 4021040072436087218
+    second: trap0_statement_18
+  - first:
+      213: 3432403863909066674
+    second: trap0_statement_19
+  - first:
+      213: 6431814589141749628
+    second: trap0_statement_20
+  - first:
+      213: 4646830254783456012
+    second: trap0_statement_21
+  - first:
+      213: 6447043437114833009
+    second: trap0_statement_22
+  - first:
+      213: 1777650164996894672
+    second: trap0_statement_23
+  - first:
+      213: 373430032806157030
+    second: trap0_statement_24
+  - first:
+      213: -99901060455969894
+    second: trap0_statement_25
+  - first:
+      213: 2421056797381275699
+    second: trap0_statement_26
+  - first:
+      213: -5685756171065851038
+    second: trap0_statement_27
+  - first:
+      213: -380748655659541244
+    second: trap0_statement_28
+  - first:
+      213: -1606318311541690420
+    second: trap0_statement_29
+  - first:
+      213: -6285889192468094013
+    second: trap0_statement_30
+  - first:
+      213: 3959031501798288062
+    second: trap0_statement_31
+  - first:
+      213: 4753147067711645514
+    second: trap0_statement_32
+  - first:
+      213: -4877773105960492704
+    second: trap0_statement_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trap0_statement_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 323
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe134c75f2f315f0800000000000000
+      internalID: -787018373694021899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 293
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cee6d41d880f3c0800000000000000
+      internalID: -4327808809374389229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 282
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd20c115f81b69780800000000000000
+      internalID: -8676552402983451939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 292
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57816d5f189ac5d30800000000000000
+      internalID: 4421595309811308661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 293
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d5bbd81e63e7970800000000000000
+      internalID: 8754495068028231027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 282
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023cfa6ec26a52f0800000000000000
+      internalID: -983364929929334258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 283
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5815f4268fbbc0800000000000000
+      internalID: -3765143270169486029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 100
+        width: 499
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf45ac316ece3440800000000000000
+      internalID: 4917594760159776706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 292
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c44ef8eb5a8250c0800000000000000
+      internalID: -4588452942981479227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 292
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c1586adfbf7ae20800000000000000
+      internalID: 3361932713694403643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 293
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992409e6a5c3aaf60800000000000000
+      internalID: 8046310043350483609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 293
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd31b7f7691ff20800000000000000
+      internalID: 3454707863439792917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 292
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12044f1f75cc4d20800000000000000
+      internalID: 3264200979712836127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 213
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5560cd28abe6f110800000000000000
+      internalID: 1294481050470212955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 204
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129a27626887c8d0800000000000000
+      internalID: -2826140284932681190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 213
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6546ddfe31558ac70800000000000000
+      internalID: 8982523000907457622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 214
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d12a91c6edf760800000000000000
+      internalID: 7493399074203357323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 213
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7bd1f340b839640800000000000000
+      internalID: 5085561254586464169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 214
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9f92934aa9dc730800000000000000
+      internalID: 4021040072436087218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_19
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 213
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76af9e02952af20800000000000000
+      internalID: 3432403863909066674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 213
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f08f6aa45624950800000000000000
+      internalID: 6431814589141749628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 213
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03e7eb2f7bdc7040800000000000000
+      internalID: 4646830254783456012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 213
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1783eb029df787950800000000000000
+      internalID: 6447043437114833009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 214
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfed8b186b7ba810800000000000000
+      internalID: 1777650164996894672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea9fd5e2a0be2500800000000000000
+      internalID: 373430032806157030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 25
+        width: 115
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b46dac3841d9ef0800000000000000
+      internalID: -99901060455969894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b4f47452599120800000000000000
+      internalID: 2421056797381275699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 33
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263822803e22811b0800000000000000
+      internalID: -5685756171065851038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 33
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d94be6d1f47baf0800000000000000
+      internalID: -380748655659541244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 12
+        width: 155
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2a5c910635b9e0800000000000000
+      internalID: -1606318311541690420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 33
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3e871651904c8a0800000000000000
+      internalID: -6285889192468094013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 34
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa44fcc2e41f630800000000000000
+      internalID: 3959031501798288062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 33
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476428231296f140800000000000000
+      internalID: 4753147067711645514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap0_statement_33
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 33
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0616544243bae4cb0800000000000000
+      internalID: -4877773105960492704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

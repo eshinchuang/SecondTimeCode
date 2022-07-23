@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ladder
+  - ladder_floor
+  - FxTemporaire
+  - enemy
+  - CD
+  - weapon
+  - Map
+  - moveplatform
+  - spike
+  - Goal
+  - block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3424708059
+    locked: 0
+  - name: foreground
+    uniqueID: 1405949777
+    locked: 0
+  - name: enemy
+    uniqueID: 1608430783
+    locked: 0
+  - name: player
+    uniqueID: 2628448917
+    locked: 0
